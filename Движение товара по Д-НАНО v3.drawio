@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T14:09:15.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NG9X7dZDKYElYpy3uJlC" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-27T10:02:13.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PAjUTCgqSchNebHoekby" version="21.2.2" type="github" pages="2">
   <diagram name="приемка и размещение" id="CrtFjV_3kCp9laY5uxfz">
-    <mxGraphModel dx="7185" dy="2310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6468" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -809,7 +809,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_2icCXfqlzJuFIFOT4Yo-12" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;Запрос сырья от производства (звонок/бумага)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2190" y="2820" width="232.5" height="100" as="geometry" />
+          <mxGeometry x="-2220" y="2820" width="232.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_2icCXfqlzJuFIFOT4Yo-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_2icCXfqlzJuFIFOT4Yo-13" target="_2icCXfqlzJuFIFOT4Yo-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -918,7 +918,7 @@
           <mxGeometry x="-372.5" y="2680" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="37K8_gWw1fa1Yixxldi3-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Вновь пришедший товар принимается сразу на склад хранения&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-2830" y="2960" width="200" height="210" as="geometry" />
+          <mxGeometry x="-2820" y="2960" width="200" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
